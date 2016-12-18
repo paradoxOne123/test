@@ -1,0 +1,74 @@
+{
+    "foodList": [
+        {
+        	"imgUrl": "../../images/food.png",
+        	"fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        },
+        {
+            "imgUrl": "images/food.png",
+            "fname": "豆浆",
+            "fsold": "343",
+            "price": "2.5",
+            "prePrice": "3.0"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+#botmNav{
+	position: fixed;
+	bottom: 0px;
+	height:50px;
+	line-height: 50px;
+	background: #333;
+} 
+#botmNav .flex-box a{
+    color: #fff;
+    display: block;
+} 
+#botmNav .flex-box a span{
+	color: #fff;
+	line-height: 20px;
+    display: block;
+}
+#botmNav .flex-box a i.iconfont{
+	color: #fff;
+    font-size: 1.5em;
+    display: block;
+    line-height: 20px;
+}

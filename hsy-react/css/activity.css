@@ -1,0 +1,13 @@
+#activity{
+	padding: 10px;
+	background-color: #fff;
+	margin-top: 5px;
+}
+#activity .border-r{
+	border-right: 4px solid #ededed;
+}
+#activity .flex-box p{
+	line-height: 25px;
+	color: #f90;
+	font-weight: bold;
+}

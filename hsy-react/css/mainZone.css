@@ -1,0 +1,27 @@
+#mainZone{
+	padding: 15px 10px;
+	background-color: #fff;
+	margin-top: 5px;
+}
+#mainZone .flex-box a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 100%;
+	text-align: center;
+	background-color: #f8ce44;
+	border-radius: 50%;
+}
+#mainZone .flex-box span.subtit{
+	display: inline-block;
+	height: 25px;
+	line-height: 30px;
+}
+#mainZone .flex-box a span.iconfont{
+	position: absolute;
+	left: 0px;
+    right: 0px;
+	color: #fff;
+    font-size: 2.8em;
+    top: 12%;
+}

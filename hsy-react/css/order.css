@@ -1,0 +1,59 @@
+.order{
+	background-color: #fff;
+}
+.orderType ul{
+	position: fixed;
+	top: 40px;
+	bottom: 50px;
+	padding: 0px 8px;
+	background-color: #fff;
+}
+.orderType ul li{
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #ededed;
+}
+.orderType ul li a{
+    
+}
+.foodZone{
+	margin-bottom: 50px;
+}
+.foodZone .foodBox{
+	border-bottom: 1px solid #ededed; 
+	padding: 2px 0px;
+}
+.foodZone .foodBox .flex-box{
+	padding: 0px;
+	text-align: left;
+}
+.foodZone .foodBox .flex-box p.fName{
+	line-height: 25px;
+}
+.foodZone .foodBox .flex-box p.fSold,.foodZone .foodBox .flex-box p.fSold span{
+	font-size: 0.9em;
+	color: #999;
+}
+.foodZone .foodBox .flex-box .addtoSc{
+	line-height: 25px;
+}
+.foodZone .foodBox .flex-box .addtoSc .price{
+    color: #f85050;
+}
+.foodZone .foodBox .flex-box .addtoSc .pre-price{
+	display: inline-block;
+	padding-left: 5px;
+    font-size: 0.9em;
+    color: #999;
+    text-decoration: line-through;
+}
+.foodZone .foodBox .flex-box .addtoSc .fMinus,.foodZone .foodBox .flex-box .addtoSc .fAdd{
+	display: inline-block;
+    padding: 0px 8px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+}
+.foodZone .foodBox .flex-box .addtoSc .fnum{
+	display: inline-block;
+	padding: 0px 5px;
+}
